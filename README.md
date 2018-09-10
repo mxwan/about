@@ -91,6 +91,11 @@ Below is a list of programming languages and areas within which I have worked th
 + Amazon SimpleDB
 + Elastic Search
 
+### Content management system
++ Drupal
++ WordPress
++ ExpressionEngine
+
 ---
 
 ## Weapon
